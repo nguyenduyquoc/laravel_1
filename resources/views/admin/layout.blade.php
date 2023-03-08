@@ -13,6 +13,7 @@
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
 
+
     <!-- Navbar -->
     @include('admin.html.nav')
     <!-- /.navbar -->
